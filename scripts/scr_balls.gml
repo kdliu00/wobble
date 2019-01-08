@@ -1,0 +1,50 @@
+for (i = 1; i <= global.ballNumber; i++) {
+    global.balls[i,2] = false;
+}
+
+global.balls[1,1] = spr_ball1; //default ball
+global.balls[1,2] = true; //default ball
+
+global.balls[2,1] = spr_ball2;
+global.balls[3,1] = spr_ball3;
+global.balls[4,1] = spr_ball4;
+global.balls[5,1] = spr_ball5;
+global.balls[6,1] = spr_ball6;
+global.balls[7,1] = spr_ball7;
+global.balls[8,1] = spr_ball8;
+global.balls[9,1] = spr_ball9;
+global.balls[10,1] = spr_ball10;
+global.balls[11,1] = spr_ball11;
+global.balls[12,1] = spr_ball12;
+global.balls[13,1] = spr_ball13;
+global.balls[14,1] = spr_ball14;
+global.balls[15,1] = spr_ball15;
+global.balls[16,1] = spr_ball16;
+global.balls[17,1] = spr_ball17;
+global.balls[18,1] = spr_ball18;
+global.balls[19,1] = spr_ball19;
+global.balls[20,1] = spr_ball20;
+global.balls[21,1] = spr_ball21;
+global.balls[22,1] = spr_ball22;
+global.balls[23,1] = spr_ball23;
+global.balls[24,1] = spr_ball24;
+global.balls[25,1] = spr_ball25;
+global.balls[26,1] = spr_ball26;
+global.balls[27,1] = spr_ball27;
+global.balls[28,1] = spr_ball28;
+global.balls[29,1] = spr_ball29;
+global.balls[30,1] = spr_ball30;
+global.balls[31,1] = spr_ball31;
+global.balls[32,1] = spr_ball32;
+global.balls[33,1] = spr_ball33;
+global.balls[34,1] = spr_ball34;
+global.balls[35,1] = spr_premBall1;
+global.balls[36,1] = spr_premBall2;
+global.balls[37,1] = spr_premBall3;
+global.balls[38,1] = spr_premBall4;
+global.balls[39,1] = spr_premBall5;
+global.balls[40,1] = spr_premBall6;
+global.balls[41,1] = spr_premBall7;
+global.balls[42,1] = spr_premBall8;
+global.balls[43,1] = spr_premBall9;
+global.balls[44,1] = spr_premBall10;
