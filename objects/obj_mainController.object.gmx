@@ -185,7 +185,7 @@ global.level = 0;
 global.xpNeeded = (global.level * 5) + 50;
 global.xpGot = 0;
 
-global.noads = true;
+global.noads = false;
 
 global.dailyReward = true;
 global.year = 0;

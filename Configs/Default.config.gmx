@@ -16,10 +16,10 @@
     <option_android_arch_mipsr2>false</option_android_arch_mipsr2>
     <option_android_arch_mipsr2sf>false</option_android_arch_mipsr2sf>
     <option_android_arch_x86>True</option_android_arch_x86>
-    <option_android_build_tools_version>23.0.1</option_android_build_tools_version>
-    <option_android_build_version>4</option_android_build_version>
+    <option_android_build_tools_version>26.0.0</option_android_build_tools_version>
+    <option_android_build_version>9</option_android_build_version>
     <option_android_color_depth>0</option_android_color_depth>
-    <option_android_compile_sdk_version>23</option_android_compile_sdk_version>
+    <option_android_compile_sdk_version>26</option_android_compile_sdk_version>
     <option_android_display_name>Wobl</option_android_display_name>
     <option_android_facebook_app_display_name></option_android_facebook_app_display_name>
     <option_android_facebook_appid></option_android_facebook_appid>
@@ -30,7 +30,7 @@
     <option_android_google_mobile_ads>-1</option_android_google_mobile_ads>
     <option_android_google_play>0</option_android_google_play>
     <option_android_google_play_cloud_save_enable>0</option_android_google_play_cloud_save_enable>
-    <option_android_google_play_id></option_android_google_play_id>
+    <option_android_google_play_id>com.tangentgamestudios.wobl</option_android_google_play_id>
     <option_android_google_tracking_id></option_android_google_tracking_id>
     <option_android_icade_support>0</option_android_icade_support>
     <option_android_icon_hdpi>Configs\Default\android\icons\icon_hdpi.png</option_android_icon_hdpi>
@@ -41,11 +41,11 @@
     <option_android_icon_xxxhdpi>Configs\Default\android\icons\icon_xxxhdpi.png</option_android_icon_xxxhdpi>
     <option_android_install_location>auto</option_android_install_location>
     <option_android_interpolate>-1</option_android_interpolate>
-    <option_android_licensing_enable>0</option_android_licensing_enable>
-    <option_android_licensing_key></option_android_licensing_key>
+    <option_android_licensing_enable>-1</option_android_licensing_enable>
+    <option_android_licensing_key>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAll45x63RITfZ5ib2R/53KIrP1IdSNMC4W4EUSkNJ74hOls/xKC/UzT2VClssz5ETKfvA/cp+SMlO5Xx2PDn5Kbg19kNGh4qQWI8h2y5VwRDcTgeGu/GWCWpftxoPdYJoGum8WNyCj4INNSvTnqXuhl7ZjWjT4TkiNbbHYVhRiypSGJjE3eVljMwnGHn2zULp+HhwR06NQ5sEheX5Ia4+wgBjKp3KAR54bjfnpVjAwZb2okN1nMeXBJ6DKfPLCtaVIfZDkfZ9z80OSRWC7RcxUnLoTs3ZyOGukH1M6AIemQDMfLOVfz1Ff22LuFw7g6ZNrED3srQ5jglJ0i/jLWB/BwIDAQAB</option_android_licensing_key>
     <option_android_lint>-1</option_android_lint>
     <option_android_major_version>1</option_android_major_version>
-    <option_android_min_sdk_version>9</option_android_min_sdk_version>
+    <option_android_min_sdk_version>14</option_android_min_sdk_version>
     <option_android_minor_version>5</option_android_minor_version>
     <option_android_mmedia_ads>0</option_android_mmedia_ads>
     <option_android_moga>0</option_android_moga>
@@ -68,8 +68,8 @@
     <option_android_sleep_margin>4</option_android_sleep_margin>
     <option_android_splash_png>Configs\Default\android\splash.png</option_android_splash_png>
     <option_android_splash_time>0</option_android_splash_time>
-    <option_android_support_lib_version>23.1.1</option_android_support_lib_version>
-    <option_android_target_sdk_version>23</option_android_target_sdk_version>
+    <option_android_support_lib_version>26.0.0</option_android_support_lib_version>
+    <option_android_target_sdk_version>26</option_android_target_sdk_version>
     <option_android_texture_page>2048</option_android_texture_page>
     <option_android_use_test_ads>false</option_android_use_test_ads>
     <option_androidfire_GPU_device>0</option_androidfire_GPU_device>
@@ -504,7 +504,7 @@
     <option_use_new_audio>True</option_use_new_audio>
     <option_variableerrors>False</option_variableerrors>
     <option_version>1.5.4</option_version>
-    <option_version_build>0</option_version_build>
+    <option_version_build>1</option_version_build>
     <option_version_company>Tangent Game Studios</option_version_company>
     <option_version_copyright>(c) 2017 Tangent Game Studios</option_version_copyright>
     <option_version_description>A simple tap reaction game.</option_version_description>
@@ -584,7 +584,7 @@
     <option_winUAP_wide_logo>Configs\Default\WindowsUAP\logos\WideLogo.scale-100.png</option_winUAP_wide_logo>
     <option_windowcolor>clBlack</option_windowcolor>
     <option_windows_alternate_sync_method>True</option_windows_alternate_sync_method>
-    <option_windows_build_version>0</option_windows_build_version>
+    <option_windows_build_version>1</option_windows_build_version>
     <option_windows_company_info>Tangent Game Studios</option_windows_company_info>
     <option_windows_copyright_info>(c) 2017 Tangent Game Studios</option_windows_copyright_info>
     <option_windows_create_textures_on_demand>False</option_windows_create_textures_on_demand>
