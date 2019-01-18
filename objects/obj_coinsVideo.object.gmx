@@ -82,7 +82,7 @@ if returning = true {
 
 if device_mouse_check_button_released(0, mb_left) &amp;&amp; ready = true &amp;&amp; returning = false {
     if abs(x - 375) &lt; 4 &amp;&amp; oX = 375 {
-        AdColony_ShowVideoForV4VC("vzc42677428e50481bae");
+        //AdColony_ShowVideoForV4VC("vzc42677428e50481bae");
         ready = false;
     }
     ready = false;

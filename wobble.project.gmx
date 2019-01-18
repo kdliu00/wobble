@@ -5,7 +5,6 @@
   </Configs>
   <NewExtensions>
     <extension index="0">extensions\GooglePlayServicesExtension</extension>
-    <extension index="1">extensions\AdColonyExtension</extension>
     <extension index="2">extensions\GooglePlayServicesIAPExtension</extension>
     <extension index="3">extensions\GooglePlayLicensingAsExt</extension>
   </NewExtensions>

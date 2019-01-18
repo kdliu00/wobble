@@ -83,7 +83,11 @@ if returning = true {
 
 if device_mouse_check_button_released(0, mb_left) &amp;&amp; ready = true &amp;&amp; returning = false {
     if abs(x - 375) &lt; 4 &amp;&amp; oX = 375 {
-        url_open("https://appsto.re/us/CFi4jb.i");
+        if os_type = os_android {
+            url_open("https://play.google.com/store/apps/details?id=com.tangentgamestudios.wobl&amp;hl=en");
+        } else {
+            url_open("https://appsto.re/us/CFi4jb.i");
+        }
         ready = false;
     }
     ready = false;

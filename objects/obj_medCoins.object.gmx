@@ -80,7 +80,7 @@ if returning = true {
 if device_mouse_check_button_released(0, mb_left) &amp;&amp; ready = true &amp;&amp; returning = false {
     if abs(x - leftColumn) &lt; 4 &amp;&amp; oX = leftColumn {
         //iap medium coins
-        if show_question("Buy 800 Coins?#($1.99)") = true {
+        if show_question_async("Buy 800 Coins?#($1.99)") = true {
             if iap_status() = iap_status_available {
                 if os_type = os_macosx {
                     var product = "com.tangentgamestudios.mac.mediumcoins";

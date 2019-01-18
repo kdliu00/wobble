@@ -81,7 +81,11 @@ transition -= subtract;
 
 if highscorePosted = false {
     if achievement_available() {
-        achievement_post_score("com.tangentgamestudios.woblhighscores", global.highscore);
+        if os_type = os_ios {
+            achievement_post_score("com.tangentgamestudios.woblhighscores", global.highscore);
+        } else {
+            achievement_post_score("CgkIqKzBlf8QEAIQAA", global.highscore);
+        }
         highscorePosted = true;
     }
 }

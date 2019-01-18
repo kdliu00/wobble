@@ -77,7 +77,7 @@ if returning = true {
 if device_mouse_check_button_released(0, mb_left) &amp;&amp; ready = true &amp;&amp; returning = false {
     if abs(x - 375) &lt; 4 &amp;&amp; oX = 375 {
         //iap restore
-        if show_question("Restore purchases?") = true {
+        if show_question_async("Restore purchases?") = true {
             iap_restore_all();
         }
         ready = false;

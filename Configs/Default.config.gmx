@@ -28,7 +28,7 @@
     <option_android_google_analytics>0</option_android_google_analytics>
     <option_android_google_analytics_enable>false</option_android_google_analytics_enable>
     <option_android_google_mobile_ads>-1</option_android_google_mobile_ads>
-    <option_android_google_play>0</option_android_google_play>
+    <option_android_google_play>-1</option_android_google_play>
     <option_android_google_play_cloud_save_enable>0</option_android_google_play_cloud_save_enable>
     <option_android_google_play_id>com.tangentgamestudios.wobl</option_android_google_play_id>
     <option_android_google_tracking_id></option_android_google_tracking_id>
@@ -42,11 +42,11 @@
     <option_android_install_location>auto</option_android_install_location>
     <option_android_interpolate>-1</option_android_interpolate>
     <option_android_licensing_enable>-1</option_android_licensing_enable>
-    <option_android_licensing_key>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAll45x63RITfZ5ib2R/53KIrP1IdSNMC4W4EUSkNJ74hOls/xKC/UzT2VClssz5ETKfvA/cp+SMlO5Xx2PDn5Kbg19kNGh4qQWI8h2y5VwRDcTgeGu/GWCWpftxoPdYJoGum8WNyCj4INNSvTnqXuhl7ZjWjT4TkiNbbHYVhRiypSGJjE3eVljMwnGHn2zULp+HhwR06NQ5sEheX5Ia4+wgBjKp3KAR54bjfnpVjAwZb2okN1nMeXBJ6DKfPLCtaVIfZDkfZ9z80OSRWC7RcxUnLoTs3ZyOGukH1M6AIemQDMfLOVfz1Ff22LuFw7g6ZNrED3srQ5jglJ0i/jLWB/BwIDAQAB</option_android_licensing_key>
+    <option_android_licensing_key>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv5D+AS2EYcwExziTS684FNXahcg/IguJYhPv9qSdvxB7Es2vOidbYMQxOMho9NDCZiZkNc/TU2pZpL39wQG98hw+GvV7u7KDPBRj9ad5LjdHGmZ847RhB+7R02ssLcSR9kgbQ+0k+IGYtZ6NWaTNf9aqJ9SVGz09X3Cet8VW5H0o+3PW12FkNiIxFw50Nhrxr9dfqkPvIZW9mcZF60wrEFc8I8KUt6srC7M91e4oX6zL+vmbt/EX9LfXornbTPWfMppB9gNvvkWLn/pBK+v3L6TiVf3mO1JH9Ewhw48BSTs0hhgAO0IPGOYqZ5Wk7VFEtSz0CVwLbosuV0eEGLi0IwIDAQAB</option_android_licensing_key>
     <option_android_lint>-1</option_android_lint>
     <option_android_major_version>1</option_android_major_version>
     <option_android_min_sdk_version>14</option_android_min_sdk_version>
-    <option_android_minor_version>5</option_android_minor_version>
+    <option_android_minor_version>6</option_android_minor_version>
     <option_android_mmedia_ads>0</option_android_mmedia_ads>
     <option_android_moga>0</option_android_moga>
     <option_android_mopub_ads>0</option_android_mopub_ads>
@@ -59,7 +59,7 @@
     <option_android_package_company>tangentgamestudios</option_android_package_company>
     <option_android_package_domain>com</option_android_package_domain>
     <option_android_package_product>wobl</option_android_package_product>
-    <option_android_permission_flags>9</option_android_permission_flags>
+    <option_android_permission_flags>8</option_android_permission_flags>
     <option_android_portrait_splash_png>Configs\Default\android\portrait_splash.png</option_android_portrait_splash_png>
     <option_android_push_enable>0</option_android_push_enable>
     <option_android_push_id></option_android_push_id>

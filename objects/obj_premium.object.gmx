@@ -149,7 +149,7 @@ if image_alpha = 1 {
             <string>if lifeTime &gt; 0 {
     adShow = true;
     clicked = true;
-    AdColony_ShowVideoForV4VC("vzc42677428e50481bae");
+    //AdColony_ShowVideoForV4VC("vzc42677428e50481bae");
 }
 </string>
           </argument>

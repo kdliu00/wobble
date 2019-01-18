@@ -77,7 +77,7 @@ if returning = true {
 if device_mouse_check_button_released(0, mb_left) &amp;&amp; ready = true &amp;&amp; returning = false {
     if abs(x - leftColumn) &lt; 4 &amp;&amp; oX = leftColumn {
         //iap large coins
-        if show_question("Buy 1400 Coins?#($2.99)") = true {
+        if show_question_async("Buy 1400 Coins?#($2.99)") = true {
             if iap_status() = iap_status_available {
                 if os_type = os_macosx {
                     var product = "com.tangentgamestudios.mac.largecoins";

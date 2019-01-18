@@ -79,7 +79,8 @@ if device_mouse_check_button_released(0, mb_left) &amp;&amp; ready = true &amp;&
         if achievement_available() {
             achievement_show_leaderboards();
         } else {
-            show_message("Sorry, couldn't connect to leaderboards!");
+            achievement_login();
+            show_message("Sorry, couldn't connect to leaderboards! Please try again later!");
         }
         ready = false;
     }
