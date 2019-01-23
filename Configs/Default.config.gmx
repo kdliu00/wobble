@@ -9,7 +9,7 @@
     <option_android_advertising_type>MoPub</option_android_advertising_type>
     <option_android_amazon_ads>0</option_android_amazon_ads>
     <option_android_amazon_game_circle>0</option_android_amazon_game_circle>
-    <option_android_apk_expansion>0</option_android_apk_expansion>
+    <option_android_apk_expansion>-1</option_android_apk_expansion>
     <option_android_arch_armv5>True</option_android_arch_armv5>
     <option_android_arch_armv7>True</option_android_arch_armv7>
     <option_android_arch_mips>True</option_android_arch_mips>
@@ -17,7 +17,7 @@
     <option_android_arch_mipsr2sf>false</option_android_arch_mipsr2sf>
     <option_android_arch_x86>True</option_android_arch_x86>
     <option_android_build_tools_version>26.0.0</option_android_build_tools_version>
-    <option_android_build_version>9</option_android_build_version>
+    <option_android_build_version>12</option_android_build_version>
     <option_android_color_depth>0</option_android_color_depth>
     <option_android_compile_sdk_version>26</option_android_compile_sdk_version>
     <option_android_display_name>Wobl</option_android_display_name>
@@ -30,7 +30,7 @@
     <option_android_google_mobile_ads>-1</option_android_google_mobile_ads>
     <option_android_google_play>-1</option_android_google_play>
     <option_android_google_play_cloud_save_enable>0</option_android_google_play_cloud_save_enable>
-    <option_android_google_play_id>com.tangentgamestudios.wobl</option_android_google_play_id>
+    <option_android_google_play_id>583892227624</option_android_google_play_id>
     <option_android_google_tracking_id></option_android_google_tracking_id>
     <option_android_icade_support>0</option_android_icade_support>
     <option_android_icon_hdpi>Configs\Default\android\icons\icon_hdpi.png</option_android_icon_hdpi>
@@ -43,7 +43,7 @@
     <option_android_interpolate>-1</option_android_interpolate>
     <option_android_licensing_enable>-1</option_android_licensing_enable>
     <option_android_licensing_key>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv5D+AS2EYcwExziTS684FNXahcg/IguJYhPv9qSdvxB7Es2vOidbYMQxOMho9NDCZiZkNc/TU2pZpL39wQG98hw+GvV7u7KDPBRj9ad5LjdHGmZ847RhB+7R02ssLcSR9kgbQ+0k+IGYtZ6NWaTNf9aqJ9SVGz09X3Cet8VW5H0o+3PW12FkNiIxFw50Nhrxr9dfqkPvIZW9mcZF60wrEFc8I8KUt6srC7M91e4oX6zL+vmbt/EX9LfXornbTPWfMppB9gNvvkWLn/pBK+v3L6TiVf3mO1JH9Ewhw48BSTs0hhgAO0IPGOYqZ5Wk7VFEtSz0CVwLbosuV0eEGLi0IwIDAQAB</option_android_licensing_key>
-    <option_android_lint>-1</option_android_lint>
+    <option_android_lint>0</option_android_lint>
     <option_android_major_version>1</option_android_major_version>
     <option_android_min_sdk_version>14</option_android_min_sdk_version>
     <option_android_minor_version>6</option_android_minor_version>

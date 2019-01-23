@@ -5,8 +5,9 @@
   </Configs>
   <NewExtensions>
     <extension index="0">extensions\GooglePlayServicesExtension</extension>
-    <extension index="2">extensions\GooglePlayServicesIAPExtension</extension>
-    <extension index="3">extensions\GooglePlayLicensingAsExt</extension>
+    <extension index="1">extensions\GooglePlayServicesIAPExtension</extension>
+    <extension index="2">extensions\GooglePlayLicensingAsExt</extension>
+    <extension index="3">extensions\PlayAPKExpansionExtension</extension>
   </NewExtensions>
   <sounds name="sound">
     <sound>sound\snd_levelUp</sound>
@@ -186,6 +187,7 @@
       <object>objects\obj_shopMagnet</object>
     </objects>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\rm_boot</room>
     <room>rooms\rm_title</room>
